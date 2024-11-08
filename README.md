@@ -1,7 +1,7 @@
 # Introduction
 
 Hello, I'm FrugWizard.
-Programmer with over 3 years experience in roblox.
+Programmer with over 3 years experience on roblox.
 
 # Active Projects
   - None at the moment
